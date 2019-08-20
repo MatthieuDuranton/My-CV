@@ -1,0 +1,95 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(16, 1fr);
+    grid-gap: 10px;
+    background-color: blanchedalmond;
+  }
+  .un {
+    grid-column: 1;
+    grid-row: 1 / 2;
+  }
+  .deux { 
+    grid-column: 2;
+    grid-row: 1;
+  }
+  .trois {
+    grid-column: 1;
+    grid-row: 1 / 2;
+  }
+  .quatre {
+    grid-column: 2;
+    grid-row: 2;
+  }
+  .cinq {
+    grid-column: 1 / 3;
+    grid-row: 3;
+  }
+  .six {
+    grid-column: 1;
+    grid-row: 4 / 6;
+  }
+  .sept {
+    grid-column: 2 / 3;
+    grid-row: 4;
+  }
+  .huit {
+    grid-column: 2 / 3;
+    grid-row: 5;
+  }
+  .neuf {
+    grid-column: 2 / 3;
+    grid-row: 6;
+  }
+  .dix {
+    grid-column: 1 / 3;
+    grid-row: 7;
+  }
+  .onze {
+    grid-column: 1;
+    grid-row: 8 / 10;
+  }
+  .douze {
+    grid-column: 2 / 3;
+    grid-row: 8;
+  }
+  .treize {
+    grid-column: 2 / 3;
+    grid-row: 9;
+  }
+  .quatorze {
+    grid-column: 2 / 3;
+    grid-row: 10;
+  }
+  .quinze {
+    grid-column: 1 / 3;
+    grid-row: 11;
+  }
+  .seize {
+    grid-column: 1;
+    grid-row: 12;
+  }
+  .dixsept {
+    grid-column: 2;
+    grid-row: 12;
+  }
+  .dixhuit {
+    grid-column: 3;
+    grid-row: 12;
+  }
+  .dixneuf {
+    grid-column: 1 / 3;
+    grid-row: 13;
+  }
+  .vingt {
+    grid-column: 1 / 3;
+    grid-row: 14;
+  }
+  .vingtun {
+    grid-column: 1 / 3;
+    grid-row: 15;
+  }
+  .vingtdeux {
+    grid-column: 1 / 3;
+    grid-row: 16;
+  }
