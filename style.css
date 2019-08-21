@@ -100,43 +100,43 @@ body .wrapper  {
     grid-column: 1 / 4;
     grid-row: 7;
     text-align: center;
-    background-color: coral;
+    background-color: rgb(253, 173, 144);
     padding: 10px;
   }
   .onze {
     grid-column: 1;
     grid-row: 8;
-    background-color: coral;
+    background-color: rgb(253, 173, 144);
     padding: 10px;
   }
   .vingtcinq {
     grid-column: 1;
     grid-row: 9;
-    background-color: coral;
+    background-color: rgb(253, 173, 144);
     padding: 10px;
   }
   .vingtsix {
     grid-column: 1;
     grid-row: 10;
-    background-color: coral;
+    background-color: rgb(253, 173, 144);
     padding: 10px;
   }
   .douze {
     grid-column: 2 / 4;
     grid-row: 8;
-    background-color: coral;
+    background-color: rgb(253, 173, 144);
     padding: 10px;
   }
   .treize {
     grid-column: 2 / 4;
     grid-row: 9;
-    background-color: coral;
+    background-color: rgb(253, 173, 144);
     padding: 10px;
   }
   .quatorze {
     grid-column: 2 / 4;
     grid-row: 10;
-    background-color: coral;
+    background-color: rgb(253, 173, 144);
     padding: 10px;
   }
   .quinze {
@@ -171,20 +171,20 @@ body .wrapper  {
     grid-column: 1 / 4;
     grid-row: 13;
     text-align: center;
-    background-color: darksalmon;
+    background-color: rgb(243, 211, 201);
     padding: 10px;
   }
   .vingt {
     grid-column: 1 / 4;
     grid-row: 14;
-    background-color: darksalmon;
+    background-color: rgb(243, 211, 201);
     padding: 10px;
   }
   .vingtun {
     grid-column: 1 / 4;
     grid-row: 15;
     text-align: center;
-    background-color: deepskyblue;
+    background-color: rgb(243, 211, 201);
     padding: 10px;
   }
   .vingtdeux {
