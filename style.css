@@ -22,6 +22,7 @@ body .wrapper  {
     grid-row: 1 / 3;
     text-align: left;
     background-color: aquamarine;
+    padding: 10px;
   }
 
   .deux { 
@@ -29,17 +30,20 @@ body .wrapper  {
     grid-row: 1;
     text-align: center;
     background-color: aquamarine;
+    padding: 10px;
   }
   .trois {
     grid-column: 3;
     grid-row: 1 / 3;
     text-align: right;
     background-color: aquamarine;
+    padding: 10px;
   }
 
   .trois img{
     padding: 2px;
     border: 10px solid #fff;
+    padding: 10px;
   }
 
   .quatre {
@@ -47,122 +51,145 @@ body .wrapper  {
     grid-row: 2;
     text-align: center;
     background-color: aquamarine;
+    padding: 10px;
   }
   .cinq {
     grid-column: 1 / 4;
     grid-row: 3;
     text-align: center;
     background-color: darkgray;
+    padding: 10px;
   }
   .six {
     grid-column: 1;
     grid-row: 4;
     background-color: darkgray;
+    padding: 10px;
   }
   .vingttrois {
     grid-column: 1;
     grid-row: 5;
     background-color: darkgray;
+    padding: 10px;
   }
   .vingtquatre {
     grid-column: 1;
     grid-row: 6;
     background-color: darkgray;
+    padding: 10px;
   }
   .sept {
     grid-column: 2 / 4;
     grid-row: 4;
     background-color: darkgray;
+    padding: 10px;
   }
   .huit {
     grid-column: 2 / 4;
     grid-row: 5;
     background-color: darkgray;
+    padding: 10px;
   }
   .neuf {
     grid-column: 2 / 4;
     grid-row: 6;
     background-color: darkgray;
+    padding: 10px;
   }
   .dix {
     grid-column: 1 / 4;
     grid-row: 7;
     text-align: center;
     background-color: coral;
+    padding: 10px;
   }
   .onze {
     grid-column: 1;
     grid-row: 8;
     background-color: coral;
+    padding: 10px;
   }
   .vingtcinq {
     grid-column: 1;
     grid-row: 9;
     background-color: coral;
+    padding: 10px;
   }
   .vingtsix {
     grid-column: 1;
     grid-row: 10;
     background-color: coral;
+    padding: 10px;
   }
   .douze {
     grid-column: 2 / 4;
     grid-row: 8;
     background-color: coral;
+    padding: 10px;
   }
   .treize {
     grid-column: 2 / 4;
     grid-row: 9;
     background-color: coral;
+    padding: 10px;
   }
   .quatorze {
     grid-column: 2 / 4;
     grid-row: 10;
     background-color: coral;
+    padding: 10px;
   }
   .quinze {
     grid-column: 1 / 4;
     grid-row: 11;
     text-align: center;
     background-color: rgb(176, 211, 115);
+    padding: 10px;
   }
   .seize {
     grid-column: 1;
     grid-row: 12;
     text-align: center;
     background-color: rgb(176, 211, 115);
+    padding: 10px;
   }
   .dixsept {
     grid-column: 2;
     grid-row: 12;
     text-align: center;
     background-color: rgb(176, 211, 115);
+    padding: 10px;
   }
   .dixhuit {
     grid-column: 3;
     grid-row: 12;
     text-align: center;
     background-color: rgb(176, 211, 115);
+    padding: 10px;
   }
   .dixneuf {
     grid-column: 1 / 4;
     grid-row: 13;
     text-align: center;
     background-color: darksalmon;
+    padding: 10px;
   }
   .vingt {
     grid-column: 1 / 4;
     grid-row: 14;
     background-color: darksalmon;
+    padding: 10px;
   }
   .vingtun {
     grid-column: 1 / 4;
     grid-row: 15;
     text-align: center;
     background-color: deepskyblue;
+    padding: 10px;
   }
   .vingtdeux {
     grid-column: 1 / 4;
     grid-row: 16;
     background-color: deepskyblue;
+    padding: 10px;
   }
