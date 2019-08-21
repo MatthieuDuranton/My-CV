@@ -134,7 +134,6 @@
   .vingt {
     grid-column: 1 / 4;
     grid-row: 14;
-    text-align: center;
     background-color: darksalmon
   }
   .vingtun {
@@ -146,6 +145,5 @@
   .vingtdeux {
     grid-column: 1 / 4;
     grid-row: 16;
-    text-align: center;
     background-color: deepskyblue
   }
