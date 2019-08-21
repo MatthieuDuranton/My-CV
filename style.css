@@ -5,13 +5,25 @@
     grid-gap: 15px;
     background-image: url(ransomware-matrix.jpg);
     padding: 15px;
-  }
+}
+.wrapper h1 {
+      font-size:150%;
+      }
+.wrapper h2 {
+      font-size:130%;
+      }
+body .wrapper  {
+      font-family:arial, sans-serif;
+      font-size:150%;
+      }
+  
   .un {
     grid-column: 1;
     grid-row: 1 / 3;
     text-align: left;
     background-color: aquamarine;
   }
+
   .deux { 
     grid-column: 2;
     grid-row: 1;
